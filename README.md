@@ -1,16 +1,17 @@
-## Hi there 👋
+🚀 DevOps Intern | Cloud & Automation Enthusiast
 
-<!--
-**hutdenys/hutdenys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a DevOps intern passionate about building reliable, automated, and observable infrastructure. I’ve worked with tools like Docker, Jenkins (CI/CD), Vagrant, VirtualBox, and Ansible, and I’m confident in setting up and managing systems using Linux and networking fundamentals.
 
-Here are some ideas to get you started:
+🔧 I have hands-on experience with:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Monitoring & Observability: Splunk, OpenTelemetry
+
+Web & App Stack: Nginx, SonarQube
+
+Databases: MariaDB, PostgreSQL
+
+Infrastructure as Code: Currently learning AWS and Terraform to deepen my cloud and automation skills
+
+I use GitHub to share personal projects, experiment with new tools, and document my learning journey in the DevOps world.
+
+📚 Always learning. Always automating.
